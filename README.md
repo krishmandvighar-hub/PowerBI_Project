@@ -74,12 +74,6 @@ These datasets were cleaned, transformed, and modeled in Power BI before creatin
 
 ---
 
-## 📷 Dashboard Preview
-
-![Shakti Ecommerce Sales Dashboard]([Shakti%20Sales%20Dashboard.png](https://github.com/krishmandvighar-hub/Shakti_Store_Sales_Project/blob/main/Shakti%20sale/Shakti%20Sales%20Dashboard.png))
-
----
-
 ## 👨‍💻 Author
 
 **Kris Ripon Mandvighar**
